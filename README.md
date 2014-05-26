@@ -9,7 +9,7 @@ Git-Tutorial-By-liaoxuefeng
 
 #Gitbook版
 
-由[lvwzhen](https://github.com/lvwzhen)制作，[在线阅读](http://lvwzhen.github.io/Git-Tutorial/)，[GitHub地址](https://github.com/lvwzhen/Git-Tutorial)
+由[lvwzhen](https://github.com/lvwzhen)制作，[在线阅读](http://lvwzhen.github.io/Git-Tutorial/)，[GitHub地址](https://github.com/lvwzhen/Git-Tutorial)。
 
 Gitbook的效果很不错，推荐大家看看。
 
