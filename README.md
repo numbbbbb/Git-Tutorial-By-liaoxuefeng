@@ -7,11 +7,5 @@ Git-Tutorial-By-liaoxuefeng
 
 个人排版实力有限，虽然尽力了但是还是不够完美。。。**欢迎大家提出各种意见建议**！
 
-#Gitbook版
-
-由[lvwzhen](https://github.com/lvwzhen)制作，[在线阅读](http://lvwzhen.github.io/Git-Tutorial/)，[GitHub地址](https://github.com/lvwzhen/Git-Tutorial)。
-
-Gitbook的效果很不错，推荐大家看看。
-
 #License
 基于[WTFPL](http://en.wikipedia.org/wiki/WTFPL)协议开源。
